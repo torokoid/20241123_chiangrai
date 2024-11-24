@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241122_chiangrai/20241122_065.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241123_chiangrai/20241123_016.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -131,11 +131,15 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">ガソリンスタンドでは大抵の場合、いろんなお店が併設されています〜</span></h2>
+<h2><span class="yellow">地方都市のショッピングセンターでお買い物〜</span></h2>
 <a href="20241123_001.JPG" target="_blank"><img src="20241123_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_002.JPG" target="_blank"><img src="20241123_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ショッピングセンターに必ずある、金の販売所</span></h2>
 <a href="20241123_003.JPG" target="_blank"><img src="20241123_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_004.JPG" target="_blank"><img src="20241123_004.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">まさしく生鮮食品売り場！</span></h2>
 <a href="20241123_005.JPG" target="_blank"><img src="20241123_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_006.JPG" target="_blank"><img src="20241123_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_007.JPG" target="_blank"><img src="20241123_007.JPG" alt="サンプル画像" width="900" /></a>
@@ -143,23 +147,41 @@ p.note { display: none; }
 <a href="20241123_009.JPG" target="_blank"><img src="20241123_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_010.JPG" target="_blank"><img src="20241123_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_011.JPG" target="_blank"><img src="20241123_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">レジはベルトコンベア式、初めてだと戸惑うかも〜</span></h2>
 <a href="20241123_012.JPG" target="_blank"><img src="20241123_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_013.JPG" target="_blank"><img src="20241123_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お店の外は広大な田園地帯</span></h2>
 <a href="20241123_014.JPG" target="_blank"><img src="20241123_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">No無しのスクーターで荷物満載して運びます<br>ノーヘル片手運転、スマホ通話は当たり前</span></h2>
 <a href="20241123_015.JPG" target="_blank"><img src="20241123_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_016.JPG" target="_blank"><img src="20241123_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">親戚が亡くなったので、お葬式に出席</span></h2>
 <a href="20241123_017.JPG" target="_blank"><img src="20241123_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">弔い期間は4日間、5日めに火葬します</span></h2>
 <a href="20241123_018.JPG" target="_blank"><img src="20241123_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_019.JPG" target="_blank"><img src="20241123_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_020.JPG" target="_blank"><img src="20241123_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">地方都市は集落がほぼ全員親戚なので、街をあげての弔いになります</span></h2>
 <a href="20241123_021.JPG" target="_blank"><img src="20241123_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">僧侶の導きにより、遺体を櫓の上に安置して一昼夜屋外安置</span></h2>
 <a href="20241123_022.JPG" target="_blank"><img src="20241123_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_023.JPG" target="_blank"><img src="20241123_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_024.JPG" target="_blank"><img src="20241123_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_025.JPG" target="_blank"><img src="20241123_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_026.JPG" target="_blank"><img src="20241123_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お葬式のレベルが日本とは違いすぎます</span></h2>
 <a href="20241123_027.JPG" target="_blank"><img src="20241123_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_028.JPG" target="_blank"><img src="20241123_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">主要道から式の開催場所までは、外枠が樹脂製の蛍光灯で光の動線が設置されてました</span></h2>
 <a href="20241123_029.JPG" target="_blank"><img src="20241123_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241123_030.JPG" target="_blank"><img src="20241123_030.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -179,14 +201,7 @@ p.note { display: none; }
 
 
 
-<!--
-<a href="20241003_009.png" target="_blank"><img src="20241003_009.png" alt="サンプル画像" width="900" /></a>
 
-
-<h2><span class="yellow">集合写真！</span></h2>
-
-<a href="20241004_034.JPG" target="_blank"><img src="20241004_034.JPG" alt="サンプル画像" width="900" /></a>
--->
 
 
 
@@ -202,8 +217,6 @@ p.note { display: none; }
 
 
 
-<br><!--
-<h2><span class="yellow">残暑厳しい中、水泳メンバーが集まりました<br>みんな元気そうです<br>では、又の再会を楽しみにしています！</span></h2>-->
 
 <br><br><br><br><br><br><br><br><br>
 
